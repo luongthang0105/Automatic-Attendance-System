@@ -20,3 +20,4 @@ alt="demo read.ino" width="240" height="180" border="10" /></a>
 <br> The first sheet of the excel file will show users who and when did someone attend. 
 <br> The second sheet shows the total number of people, number of attendees, and number of absent attendees.
 
+<br> Unfortunately, I only have the Vietnamese instructions for this project. I'll make an English version if I have time!
